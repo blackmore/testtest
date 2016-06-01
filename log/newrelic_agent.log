@@ -1,0 +1,363 @@
+# Logfile created on 2016-06-01 13:26:14 +0200 by logger.rb/47272
+[2016-06-01 13:26:14 +0200 Nigels-MBP.fritz.box (53846)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-01 13:26:14 +0200 Nigels-MBP.fritz.box (53846)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-01 13:26:14 +0200 Nigels-MBP.fritz.box (53846)] INFO : Reading configuration from config/newrelic.yml (/Users/nigel/Desktop/sum)
+[2016-06-01 13:26:14 +0200 Nigels-MBP.fritz.box (53846)] INFO : Environment: development
+[2016-06-01 13:26:14 +0200 Nigels-MBP.fritz.box (53846)] INFO : Dispatcher: webrick
+[2016-06-01 13:26:14 +0200 Nigels-MBP.fritz.box (53846)] INFO : Application: My app (Development)
+[2016-06-01 13:26:14 +0200 Nigels-MBP.fritz.box (53846)] ERROR : Invalid license key: my_key
+[2016-06-01 13:26:14 +0200 Nigels-MBP.fritz.box (53846)] INFO : Installing Net instrumentation
+[2016-06-01 13:26:14 +0200 Nigels-MBP.fritz.box (53846)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-01 13:26:14 +0200 Nigels-MBP.fritz.box (53846)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-01 13:26:14 +0200 Nigels-MBP.fritz.box (53846)] INFO : Finished instrumentation
+[2016-06-01 13:29:53 +0200 Nigels-MBP.fritz.box (53857)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-01 13:29:53 +0200 Nigels-MBP.fritz.box (53857)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-01 13:29:53 +0200 Nigels-MBP.fritz.box (53857)] INFO : Reading configuration from config/newrelic.yml (/Users/nigel/Desktop/sum)
+[2016-06-01 13:29:53 +0200 Nigels-MBP.fritz.box (53857)] INFO : Environment: development
+[2016-06-01 13:29:53 +0200 Nigels-MBP.fritz.box (53857)] INFO : Dispatcher: webrick
+[2016-06-01 13:29:53 +0200 Nigels-MBP.fritz.box (53857)] INFO : Application: My app (Development)
+[2016-06-01 13:29:53 +0200 Nigels-MBP.fritz.box (53857)] ERROR : Invalid license key: my_key
+[2016-06-01 13:29:54 +0200 Nigels-MBP.fritz.box (53857)] INFO : Installing Net instrumentation
+[2016-06-01 13:29:54 +0200 Nigels-MBP.fritz.box (53857)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-01 13:29:54 +0200 Nigels-MBP.fritz.box (53857)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-01 13:29:54 +0200 Nigels-MBP.fritz.box (53857)] INFO : Finished instrumentation
+[2016-06-01 13:30:35 +0200 Nigels-MBP.fritz.box (53862)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-01 13:30:35 +0200 Nigels-MBP.fritz.box (53862)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-01 13:30:35 +0200 Nigels-MBP.fritz.box (53862)] INFO : Reading configuration from config/newrelic.yml (/Users/nigel/Desktop/sum)
+[2016-06-01 13:30:35 +0200 Nigels-MBP.fritz.box (53862)] INFO : Environment: development
+[2016-06-01 13:30:35 +0200 Nigels-MBP.fritz.box (53862)] INFO : Dispatcher: webrick
+[2016-06-01 13:30:35 +0200 Nigels-MBP.fritz.box (53862)] INFO : Application: My app (Development)
+[2016-06-01 13:30:35 +0200 Nigels-MBP.fritz.box (53862)] ERROR : Invalid license key: my_key
+[2016-06-01 13:30:35 +0200 Nigels-MBP.fritz.box (53862)] INFO : Installing Net instrumentation
+[2016-06-01 13:30:35 +0200 Nigels-MBP.fritz.box (53862)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-01 13:30:35 +0200 Nigels-MBP.fritz.box (53862)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-01 13:30:35 +0200 Nigels-MBP.fritz.box (53862)] INFO : Finished instrumentation
+[2016-06-01 13:30:36 +0200 Nigels-MBP.fritz.box (53862)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-06-01 13:30:36 +0200 Nigels-MBP.fritz.box (53862)] INFO : Installing ActiveRecord 4+ instrumentation
+[2016-06-01 13:30:36 +0200 Nigels-MBP.fritz.box (53862)] INFO : Installing Sinatra instrumentation
+[2016-06-01 13:30:36 +0200 Nigels-MBP.fritz.box (53862)] INFO : Installing Redis Instrumentation
+[2016-06-01 13:30:36 +0200 Nigels-MBP.fritz.box (53862)] INFO : Installing Sidekiq instrumentation
+[2016-06-01 13:30:37 +0200 Nigels-MBP.fritz.box (53862)] INFO : memory not available: Unable to run shell command sampler: ps -o rss
+[2016-06-01 13:30:38 +0200 Nigels-MBP.fritz.box (53880)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-01 13:30:38 +0200 Nigels-MBP.fritz.box (53880)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-01 13:30:38 +0200 Nigels-MBP.fritz.box (53880)] INFO : Reading configuration from config/newrelic.yml (/Users/nigel/Desktop/sum)
+[2016-06-01 13:30:38 +0200 Nigels-MBP.fritz.box (53880)] INFO : Environment: development
+[2016-06-01 13:30:38 +0200 Nigels-MBP.fritz.box (53880)] INFO : Dispatcher: webrick
+[2016-06-01 13:30:38 +0200 Nigels-MBP.fritz.box (53880)] INFO : Application: My app (Development)
+[2016-06-01 13:30:38 +0200 Nigels-MBP.fritz.box (53880)] ERROR : Invalid license key: my_key
+[2016-06-01 13:30:38 +0200 Nigels-MBP.fritz.box (53881)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-01 13:30:38 +0200 Nigels-MBP.fritz.box (53881)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-01 13:30:38 +0200 Nigels-MBP.fritz.box (53881)] INFO : Reading configuration from config/newrelic.yml (/Users/nigel/Desktop/sum)
+[2016-06-01 13:30:38 +0200 Nigels-MBP.fritz.box (53881)] INFO : Environment: development
+[2016-06-01 13:30:38 +0200 Nigels-MBP.fritz.box (53881)] INFO : Dispatcher: webrick
+[2016-06-01 13:30:38 +0200 Nigels-MBP.fritz.box (53881)] INFO : Application: My app (Development)
+[2016-06-01 13:30:38 +0200 Nigels-MBP.fritz.box (53881)] ERROR : Invalid license key: my_key
+[2016-06-01 13:30:38 +0200 Nigels-MBP.fritz.box (53880)] INFO : Installing Net instrumentation
+[2016-06-01 13:30:38 +0200 Nigels-MBP.fritz.box (53880)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-01 13:30:38 +0200 Nigels-MBP.fritz.box (53880)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-01 13:30:38 +0200 Nigels-MBP.fritz.box (53880)] INFO : Finished instrumentation
+[2016-06-01 13:30:38 +0200 Nigels-MBP.fritz.box (53881)] INFO : Installing Net instrumentation
+[2016-06-01 13:30:38 +0200 Nigels-MBP.fritz.box (53881)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-01 13:30:38 +0200 Nigels-MBP.fritz.box (53881)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-01 13:30:38 +0200 Nigels-MBP.fritz.box (53881)] INFO : Finished instrumentation
+[2016-06-01 13:30:39 +0200 Nigels-MBP.fritz.box (53881)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-06-01 13:30:39 +0200 Nigels-MBP.fritz.box (53881)] INFO : Installing ActiveRecord 4+ instrumentation
+[2016-06-01 13:30:39 +0200 Nigels-MBP.fritz.box (53881)] INFO : Installing Sinatra instrumentation
+[2016-06-01 13:30:39 +0200 Nigels-MBP.fritz.box (53880)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-06-01 13:30:39 +0200 Nigels-MBP.fritz.box (53880)] INFO : Installing ActiveRecord 4+ instrumentation
+[2016-06-01 13:30:39 +0200 Nigels-MBP.fritz.box (53880)] INFO : Installing Sinatra instrumentation
+[2016-06-01 13:30:39 +0200 Nigels-MBP.fritz.box (53881)] INFO : Installing Redis Instrumentation
+[2016-06-01 13:30:39 +0200 Nigels-MBP.fritz.box (53881)] INFO : Installing Sidekiq instrumentation
+[2016-06-01 13:30:39 +0200 Nigels-MBP.fritz.box (53880)] INFO : Installing Redis Instrumentation
+[2016-06-01 13:30:39 +0200 Nigels-MBP.fritz.box (53880)] INFO : Installing Sidekiq instrumentation
+[2016-06-01 13:30:39 +0200 Nigels-MBP.fritz.box (53881)] INFO : memory not available: Unable to run shell command sampler: ps -o rss
+[2016-06-01 13:30:39 +0200 Nigels-MBP.fritz.box (53880)] INFO : memory not available: Unable to run shell command sampler: ps -o rss
+[2016-06-01 13:33:21 +0200 Nigels-MBP.fritz.box (53967)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-01 13:33:21 +0200 Nigels-MBP.fritz.box (53967)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-01 13:33:21 +0200 Nigels-MBP.fritz.box (53967)] INFO : Reading configuration from config/newrelic.yml (/Users/nigel/Desktop/sum)
+[2016-06-01 13:33:21 +0200 Nigels-MBP.fritz.box (53967)] INFO : Environment: development
+[2016-06-01 13:33:21 +0200 Nigels-MBP.fritz.box (53967)] INFO : Dispatcher: webrick
+[2016-06-01 13:33:21 +0200 Nigels-MBP.fritz.box (53967)] INFO : Application: My app (Development)
+[2016-06-01 13:33:21 +0200 Nigels-MBP.fritz.box (53967)] ERROR : Invalid license key: my_key
+[2016-06-01 13:33:21 +0200 Nigels-MBP.fritz.box (53967)] INFO : Installing Net instrumentation
+[2016-06-01 13:33:21 +0200 Nigels-MBP.fritz.box (53967)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-01 13:33:21 +0200 Nigels-MBP.fritz.box (53967)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-01 13:33:21 +0200 Nigels-MBP.fritz.box (53967)] INFO : Finished instrumentation
+[2016-06-01 13:33:22 +0200 Nigels-MBP.fritz.box (53967)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-06-01 13:33:22 +0200 Nigels-MBP.fritz.box (53967)] INFO : Installing ActiveRecord 4+ instrumentation
+[2016-06-01 13:33:22 +0200 Nigels-MBP.fritz.box (53967)] INFO : Installing Sinatra instrumentation
+[2016-06-01 13:33:22 +0200 Nigels-MBP.fritz.box (53967)] INFO : Installing Redis Instrumentation
+[2016-06-01 13:33:22 +0200 Nigels-MBP.fritz.box (53967)] INFO : Installing Sidekiq instrumentation
+[2016-06-01 13:33:23 +0200 Nigels-MBP.fritz.box (53967)] INFO : memory not available: Unable to run shell command sampler: ps -o rss
+[2016-06-01 13:33:23 +0200 Nigels-MBP.fritz.box (53983)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-01 13:33:23 +0200 Nigels-MBP.fritz.box (53983)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-01 13:33:23 +0200 Nigels-MBP.fritz.box (53983)] INFO : Reading configuration from config/newrelic.yml (/Users/nigel/Desktop/sum)
+[2016-06-01 13:33:23 +0200 Nigels-MBP.fritz.box (53983)] INFO : Environment: development
+[2016-06-01 13:33:23 +0200 Nigels-MBP.fritz.box (53983)] INFO : Dispatcher: webrick
+[2016-06-01 13:33:23 +0200 Nigels-MBP.fritz.box (53983)] INFO : Application: My app (Development)
+[2016-06-01 13:33:23 +0200 Nigels-MBP.fritz.box (53983)] ERROR : Invalid license key: my_key
+[2016-06-01 13:33:24 +0200 Nigels-MBP.fritz.box (53983)] INFO : Installing Net instrumentation
+[2016-06-01 13:33:24 +0200 Nigels-MBP.fritz.box (53983)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-01 13:33:24 +0200 Nigels-MBP.fritz.box (53983)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-01 13:33:24 +0200 Nigels-MBP.fritz.box (53983)] INFO : Finished instrumentation
+[2016-06-01 13:33:24 +0200 Nigels-MBP.fritz.box (53983)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-06-01 13:33:24 +0200 Nigels-MBP.fritz.box (53983)] INFO : Installing ActiveRecord 4+ instrumentation
+[2016-06-01 13:33:24 +0200 Nigels-MBP.fritz.box (53983)] INFO : Installing Sinatra instrumentation
+[2016-06-01 13:33:24 +0200 Nigels-MBP.fritz.box (53983)] INFO : Installing Redis Instrumentation
+[2016-06-01 13:33:24 +0200 Nigels-MBP.fritz.box (53983)] INFO : Installing Sidekiq instrumentation
+[2016-06-01 13:33:25 +0200 Nigels-MBP.fritz.box (53983)] INFO : memory not available: Unable to run shell command sampler: ps -o rss
+[2016-06-01 13:33:26 +0200 Nigels-MBP.fritz.box (54003)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-01 13:33:26 +0200 Nigels-MBP.fritz.box (54003)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-01 13:33:26 +0200 Nigels-MBP.fritz.box (54003)] INFO : Reading configuration from config/newrelic.yml (/Users/nigel/Desktop/sum)
+[2016-06-01 13:33:26 +0200 Nigels-MBP.fritz.box (54003)] INFO : Environment: development
+[2016-06-01 13:33:26 +0200 Nigels-MBP.fritz.box (54003)] INFO : Dispatcher: webrick
+[2016-06-01 13:33:26 +0200 Nigels-MBP.fritz.box (54003)] INFO : Application: My app (Development)
+[2016-06-01 13:33:26 +0200 Nigels-MBP.fritz.box (54003)] ERROR : Invalid license key: my_key
+[2016-06-01 13:33:26 +0200 Nigels-MBP.fritz.box (54004)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-01 13:33:26 +0200 Nigels-MBP.fritz.box (54004)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-01 13:33:26 +0200 Nigels-MBP.fritz.box (54004)] INFO : Reading configuration from config/newrelic.yml (/Users/nigel/Desktop/sum)
+[2016-06-01 13:33:26 +0200 Nigels-MBP.fritz.box (54004)] INFO : Environment: development
+[2016-06-01 13:33:26 +0200 Nigels-MBP.fritz.box (54004)] INFO : Dispatcher: webrick
+[2016-06-01 13:33:26 +0200 Nigels-MBP.fritz.box (54004)] INFO : Application: My app (Development)
+[2016-06-01 13:33:26 +0200 Nigels-MBP.fritz.box (54004)] ERROR : Invalid license key: my_key
+[2016-06-01 13:33:26 +0200 Nigels-MBP.fritz.box (54003)] INFO : Installing Net instrumentation
+[2016-06-01 13:33:26 +0200 Nigels-MBP.fritz.box (54003)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-01 13:33:26 +0200 Nigels-MBP.fritz.box (54003)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-01 13:33:26 +0200 Nigels-MBP.fritz.box (54003)] INFO : Finished instrumentation
+[2016-06-01 13:33:26 +0200 Nigels-MBP.fritz.box (54004)] INFO : Installing Net instrumentation
+[2016-06-01 13:33:26 +0200 Nigels-MBP.fritz.box (54004)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-01 13:33:26 +0200 Nigels-MBP.fritz.box (54004)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-01 13:33:26 +0200 Nigels-MBP.fritz.box (54004)] INFO : Finished instrumentation
+[2016-06-01 13:33:27 +0200 Nigels-MBP.fritz.box (54003)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-06-01 13:33:27 +0200 Nigels-MBP.fritz.box (54003)] INFO : Installing ActiveRecord 4+ instrumentation
+[2016-06-01 13:33:27 +0200 Nigels-MBP.fritz.box (54003)] INFO : Installing Sinatra instrumentation
+[2016-06-01 13:33:27 +0200 Nigels-MBP.fritz.box (54004)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-06-01 13:33:27 +0200 Nigels-MBP.fritz.box (54004)] INFO : Installing ActiveRecord 4+ instrumentation
+[2016-06-01 13:33:27 +0200 Nigels-MBP.fritz.box (54004)] INFO : Installing Sinatra instrumentation
+[2016-06-01 13:33:27 +0200 Nigels-MBP.fritz.box (54003)] INFO : Installing Redis Instrumentation
+[2016-06-01 13:33:27 +0200 Nigels-MBP.fritz.box (54003)] INFO : Installing Sidekiq instrumentation
+[2016-06-01 13:33:27 +0200 Nigels-MBP.fritz.box (54004)] INFO : Installing Redis Instrumentation
+[2016-06-01 13:33:27 +0200 Nigels-MBP.fritz.box (54004)] INFO : Installing Sidekiq instrumentation
+[2016-06-01 13:33:27 +0200 Nigels-MBP.fritz.box (54004)] INFO : memory not available: Unable to run shell command sampler: ps -o rss
+[2016-06-01 13:33:27 +0200 Nigels-MBP.fritz.box (54003)] INFO : memory not available: Unable to run shell command sampler: ps -o rss
+[2016-06-01 13:34:39 +0200 Nigels-MBP.fritz.box (54052)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-01 13:34:39 +0200 Nigels-MBP.fritz.box (54052)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-01 13:34:39 +0200 Nigels-MBP.fritz.box (54052)] INFO : Reading configuration from config/newrelic.yml (/Users/nigel/Desktop/sum)
+[2016-06-01 13:34:39 +0200 Nigels-MBP.fritz.box (54052)] INFO : Environment: development
+[2016-06-01 13:34:39 +0200 Nigels-MBP.fritz.box (54052)] INFO : Dispatcher: webrick
+[2016-06-01 13:34:39 +0200 Nigels-MBP.fritz.box (54052)] INFO : Application: My app (Development)
+[2016-06-01 13:34:39 +0200 Nigels-MBP.fritz.box (54052)] ERROR : Invalid license key: my_key
+[2016-06-01 13:34:39 +0200 Nigels-MBP.fritz.box (54052)] INFO : Installing Net instrumentation
+[2016-06-01 13:34:39 +0200 Nigels-MBP.fritz.box (54052)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-01 13:34:39 +0200 Nigels-MBP.fritz.box (54052)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-01 13:34:39 +0200 Nigels-MBP.fritz.box (54052)] INFO : Finished instrumentation
+[2016-06-01 13:34:40 +0200 Nigels-MBP.fritz.box (54052)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-06-01 13:34:40 +0200 Nigels-MBP.fritz.box (54052)] INFO : Installing ActiveRecord 4+ instrumentation
+[2016-06-01 13:34:40 +0200 Nigels-MBP.fritz.box (54052)] INFO : Installing Sinatra instrumentation
+[2016-06-01 13:34:40 +0200 Nigels-MBP.fritz.box (54052)] INFO : Installing Redis Instrumentation
+[2016-06-01 13:34:40 +0200 Nigels-MBP.fritz.box (54052)] INFO : Installing Sidekiq instrumentation
+[2016-06-01 13:34:40 +0200 Nigels-MBP.fritz.box (54052)] INFO : memory not available: Unable to run shell command sampler: ps -o rss
+[2016-06-01 13:34:42 +0200 Nigels-MBP.fritz.box (54070)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-01 13:34:42 +0200 Nigels-MBP.fritz.box (54070)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-01 13:34:42 +0200 Nigels-MBP.fritz.box (54070)] INFO : Reading configuration from config/newrelic.yml (/Users/nigel/Desktop/sum)
+[2016-06-01 13:34:42 +0200 Nigels-MBP.fritz.box (54070)] INFO : Environment: development
+[2016-06-01 13:34:42 +0200 Nigels-MBP.fritz.box (54070)] INFO : Dispatcher: webrick
+[2016-06-01 13:34:42 +0200 Nigels-MBP.fritz.box (54070)] INFO : Application: My app (Development)
+[2016-06-01 13:34:42 +0200 Nigels-MBP.fritz.box (54070)] ERROR : Invalid license key: my_key
+[2016-06-01 13:34:42 +0200 Nigels-MBP.fritz.box (54071)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-01 13:34:42 +0200 Nigels-MBP.fritz.box (54071)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-01 13:34:42 +0200 Nigels-MBP.fritz.box (54071)] INFO : Reading configuration from config/newrelic.yml (/Users/nigel/Desktop/sum)
+[2016-06-01 13:34:42 +0200 Nigels-MBP.fritz.box (54071)] INFO : Environment: development
+[2016-06-01 13:34:42 +0200 Nigels-MBP.fritz.box (54071)] INFO : Dispatcher: webrick
+[2016-06-01 13:34:42 +0200 Nigels-MBP.fritz.box (54071)] INFO : Application: My app (Development)
+[2016-06-01 13:34:42 +0200 Nigels-MBP.fritz.box (54071)] ERROR : Invalid license key: my_key
+[2016-06-01 13:34:42 +0200 Nigels-MBP.fritz.box (54070)] INFO : Installing Net instrumentation
+[2016-06-01 13:34:42 +0200 Nigels-MBP.fritz.box (54070)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-01 13:34:42 +0200 Nigels-MBP.fritz.box (54070)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-01 13:34:42 +0200 Nigels-MBP.fritz.box (54070)] INFO : Finished instrumentation
+[2016-06-01 13:34:42 +0200 Nigels-MBP.fritz.box (54071)] INFO : Installing Net instrumentation
+[2016-06-01 13:34:42 +0200 Nigels-MBP.fritz.box (54071)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-01 13:34:42 +0200 Nigels-MBP.fritz.box (54071)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-01 13:34:42 +0200 Nigels-MBP.fritz.box (54071)] INFO : Finished instrumentation
+[2016-06-01 13:34:42 +0200 Nigels-MBP.fritz.box (54070)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-06-01 13:34:42 +0200 Nigels-MBP.fritz.box (54070)] INFO : Installing ActiveRecord 4+ instrumentation
+[2016-06-01 13:34:42 +0200 Nigels-MBP.fritz.box (54070)] INFO : Installing Sinatra instrumentation
+[2016-06-01 13:34:42 +0200 Nigels-MBP.fritz.box (54070)] INFO : Installing Redis Instrumentation
+[2016-06-01 13:34:42 +0200 Nigels-MBP.fritz.box (54070)] INFO : Installing Sidekiq instrumentation
+[2016-06-01 13:34:42 +0200 Nigels-MBP.fritz.box (54071)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-06-01 13:34:42 +0200 Nigels-MBP.fritz.box (54071)] INFO : Installing ActiveRecord 4+ instrumentation
+[2016-06-01 13:34:42 +0200 Nigels-MBP.fritz.box (54071)] INFO : Installing Sinatra instrumentation
+[2016-06-01 13:34:42 +0200 Nigels-MBP.fritz.box (54071)] INFO : Installing Redis Instrumentation
+[2016-06-01 13:34:42 +0200 Nigels-MBP.fritz.box (54071)] INFO : Installing Sidekiq instrumentation
+[2016-06-01 13:34:43 +0200 Nigels-MBP.fritz.box (54070)] INFO : memory not available: Unable to run shell command sampler: ps -o rss
+[2016-06-01 13:34:43 +0200 Nigels-MBP.fritz.box (54071)] INFO : memory not available: Unable to run shell command sampler: ps -o rss
+[2016-06-01 13:36:16 +0200 Nigels-MBP.fritz.box (54108)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-01 13:36:16 +0200 Nigels-MBP.fritz.box (54108)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-01 13:36:16 +0200 Nigels-MBP.fritz.box (54108)] INFO : Reading configuration from config/newrelic.yml (/Users/nigel/Desktop/sum)
+[2016-06-01 13:36:16 +0200 Nigels-MBP.fritz.box (54108)] INFO : Environment: development
+[2016-06-01 13:36:16 +0200 Nigels-MBP.fritz.box (54108)] INFO : Dispatcher: webrick
+[2016-06-01 13:36:16 +0200 Nigels-MBP.fritz.box (54108)] INFO : Application: My app (Development)
+[2016-06-01 13:36:16 +0200 Nigels-MBP.fritz.box (54108)] ERROR : Invalid license key: my_key
+[2016-06-01 13:36:16 +0200 Nigels-MBP.fritz.box (54108)] INFO : Installing Net instrumentation
+[2016-06-01 13:36:16 +0200 Nigels-MBP.fritz.box (54108)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-01 13:36:16 +0200 Nigels-MBP.fritz.box (54108)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-01 13:36:16 +0200 Nigels-MBP.fritz.box (54108)] INFO : Finished instrumentation
+[2016-06-01 13:36:17 +0200 Nigels-MBP.fritz.box (54108)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-06-01 13:36:17 +0200 Nigels-MBP.fritz.box (54108)] INFO : Installing ActiveRecord 4+ instrumentation
+[2016-06-01 13:36:17 +0200 Nigels-MBP.fritz.box (54108)] INFO : Installing Sinatra instrumentation
+[2016-06-01 13:36:17 +0200 Nigels-MBP.fritz.box (54108)] INFO : Installing Redis Instrumentation
+[2016-06-01 13:36:17 +0200 Nigels-MBP.fritz.box (54108)] INFO : Installing Sidekiq instrumentation
+[2016-06-01 13:36:17 +0200 Nigels-MBP.fritz.box (54108)] INFO : memory not available: Unable to run shell command sampler: ps -o rss
+[2016-06-01 13:40:53 +0200 Nigels-MBP.fritz.box (54137)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-01 13:40:53 +0200 Nigels-MBP.fritz.box (54137)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-01 13:40:53 +0200 Nigels-MBP.fritz.box (54137)] INFO : Reading configuration from config/newrelic.yml (/Users/nigel/Desktop/sum)
+[2016-06-01 13:40:53 +0200 Nigels-MBP.fritz.box (54137)] INFO : Environment: development
+[2016-06-01 13:40:53 +0200 Nigels-MBP.fritz.box (54137)] INFO : Dispatcher: webrick
+[2016-06-01 13:40:53 +0200 Nigels-MBP.fritz.box (54137)] INFO : Application: My app (Development)
+[2016-06-01 13:40:53 +0200 Nigels-MBP.fritz.box (54137)] ERROR : Invalid license key: my_key
+[2016-06-01 13:40:53 +0200 Nigels-MBP.fritz.box (54137)] INFO : Installing Net instrumentation
+[2016-06-01 13:40:53 +0200 Nigels-MBP.fritz.box (54137)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-01 13:40:53 +0200 Nigels-MBP.fritz.box (54137)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-01 13:40:53 +0200 Nigels-MBP.fritz.box (54137)] INFO : Finished instrumentation
+[2016-06-01 13:40:54 +0200 Nigels-MBP.fritz.box (54137)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-06-01 13:40:54 +0200 Nigels-MBP.fritz.box (54137)] INFO : Installing ActiveRecord 4+ instrumentation
+[2016-06-01 13:40:54 +0200 Nigels-MBP.fritz.box (54137)] INFO : Installing Sinatra instrumentation
+[2016-06-01 13:40:54 +0200 Nigels-MBP.fritz.box (54137)] INFO : Installing Redis Instrumentation
+[2016-06-01 13:40:54 +0200 Nigels-MBP.fritz.box (54137)] INFO : Installing Sidekiq instrumentation
+[2016-06-01 13:40:54 +0200 Nigels-MBP.fritz.box (54137)] INFO : memory not available: Unable to run shell command sampler: ps -o rss
+[2016-06-01 13:40:55 +0200 Nigels-MBP.fritz.box (54156)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-01 13:40:55 +0200 Nigels-MBP.fritz.box (54156)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-01 13:40:55 +0200 Nigels-MBP.fritz.box (54156)] INFO : Reading configuration from config/newrelic.yml (/Users/nigel/Desktop/sum)
+[2016-06-01 13:40:55 +0200 Nigels-MBP.fritz.box (54156)] INFO : Environment: development
+[2016-06-01 13:40:55 +0200 Nigels-MBP.fritz.box (54156)] INFO : Dispatcher: webrick
+[2016-06-01 13:40:55 +0200 Nigels-MBP.fritz.box (54156)] INFO : Application: My app (Development)
+[2016-06-01 13:40:55 +0200 Nigels-MBP.fritz.box (54156)] ERROR : Invalid license key: my_key
+[2016-06-01 13:40:56 +0200 Nigels-MBP.fritz.box (54156)] INFO : Installing Net instrumentation
+[2016-06-01 13:40:56 +0200 Nigels-MBP.fritz.box (54156)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-01 13:40:56 +0200 Nigels-MBP.fritz.box (54156)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-01 13:40:56 +0200 Nigels-MBP.fritz.box (54156)] INFO : Finished instrumentation
+[2016-06-01 13:40:56 +0200 Nigels-MBP.fritz.box (54156)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-06-01 13:40:56 +0200 Nigels-MBP.fritz.box (54156)] INFO : Installing ActiveRecord 4+ instrumentation
+[2016-06-01 13:40:56 +0200 Nigels-MBP.fritz.box (54156)] INFO : Installing Sinatra instrumentation
+[2016-06-01 13:40:56 +0200 Nigels-MBP.fritz.box (54156)] INFO : Installing Redis Instrumentation
+[2016-06-01 13:40:56 +0200 Nigels-MBP.fritz.box (54156)] INFO : Installing Sidekiq instrumentation
+[2016-06-01 13:40:57 +0200 Nigels-MBP.fritz.box (54156)] INFO : memory not available: Unable to run shell command sampler: ps -o rss
+[2016-06-01 13:41:00 +0200 Nigels-MBP.fritz.box (54172)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-01 13:41:00 +0200 Nigels-MBP.fritz.box (54172)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-01 13:41:00 +0200 Nigels-MBP.fritz.box (54172)] INFO : Reading configuration from config/newrelic.yml (/Users/nigel/Desktop/sum)
+[2016-06-01 13:41:00 +0200 Nigels-MBP.fritz.box (54172)] INFO : Environment: development
+[2016-06-01 13:41:00 +0200 Nigels-MBP.fritz.box (54172)] INFO : Dispatcher: webrick
+[2016-06-01 13:41:00 +0200 Nigels-MBP.fritz.box (54172)] INFO : Application: My app (Development)
+[2016-06-01 13:41:00 +0200 Nigels-MBP.fritz.box (54172)] ERROR : Invalid license key: my_key
+[2016-06-01 13:41:00 +0200 Nigels-MBP.fritz.box (54172)] INFO : Installing Net instrumentation
+[2016-06-01 13:41:00 +0200 Nigels-MBP.fritz.box (54172)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-01 13:41:00 +0200 Nigels-MBP.fritz.box (54172)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-01 13:41:00 +0200 Nigels-MBP.fritz.box (54172)] INFO : Finished instrumentation
+[2016-06-01 13:41:01 +0200 Nigels-MBP.fritz.box (54172)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-06-01 13:41:01 +0200 Nigels-MBP.fritz.box (54172)] INFO : Installing ActiveRecord 4+ instrumentation
+[2016-06-01 13:41:01 +0200 Nigels-MBP.fritz.box (54172)] INFO : Installing Sinatra instrumentation
+[2016-06-01 13:41:01 +0200 Nigels-MBP.fritz.box (54172)] INFO : Installing Redis Instrumentation
+[2016-06-01 13:41:01 +0200 Nigels-MBP.fritz.box (54172)] INFO : Installing Sidekiq instrumentation
+[2016-06-01 13:41:02 +0200 Nigels-MBP.fritz.box (54172)] INFO : memory not available: Unable to run shell command sampler: ps -o rss
+[2016-06-01 13:41:07 +0200 Nigels-MBP.fritz.box (54189)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-01 13:41:07 +0200 Nigels-MBP.fritz.box (54189)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-01 13:41:07 +0200 Nigels-MBP.fritz.box (54189)] INFO : Reading configuration from config/newrelic.yml (/Users/nigel/Desktop/sum)
+[2016-06-01 13:41:07 +0200 Nigels-MBP.fritz.box (54189)] INFO : Environment: development
+[2016-06-01 13:41:07 +0200 Nigels-MBP.fritz.box (54189)] INFO : Dispatcher: webrick
+[2016-06-01 13:41:07 +0200 Nigels-MBP.fritz.box (54189)] INFO : Application: My app (Development)
+[2016-06-01 13:41:07 +0200 Nigels-MBP.fritz.box (54189)] ERROR : Invalid license key: my_key
+[2016-06-01 13:41:07 +0200 Nigels-MBP.fritz.box (54189)] INFO : Installing Net instrumentation
+[2016-06-01 13:41:07 +0200 Nigels-MBP.fritz.box (54189)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-01 13:41:07 +0200 Nigels-MBP.fritz.box (54189)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-01 13:41:07 +0200 Nigels-MBP.fritz.box (54189)] INFO : Finished instrumentation
+[2016-06-01 13:41:08 +0200 Nigels-MBP.fritz.box (54189)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-06-01 13:41:08 +0200 Nigels-MBP.fritz.box (54189)] INFO : Installing ActiveRecord 4+ instrumentation
+[2016-06-01 13:41:08 +0200 Nigels-MBP.fritz.box (54189)] INFO : Installing Sinatra instrumentation
+[2016-06-01 13:41:08 +0200 Nigels-MBP.fritz.box (54189)] INFO : Installing Redis Instrumentation
+[2016-06-01 13:41:08 +0200 Nigels-MBP.fritz.box (54189)] INFO : Installing Sidekiq instrumentation
+[2016-06-01 13:41:08 +0200 Nigels-MBP.fritz.box (54189)] INFO : memory not available: Unable to run shell command sampler: ps -o rss
+[2016-06-01 13:41:09 +0200 Nigels-MBP.fritz.box (54196)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-01 13:41:09 +0200 Nigels-MBP.fritz.box (54196)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-01 13:41:09 +0200 Nigels-MBP.fritz.box (54196)] INFO : Reading configuration from config/newrelic.yml (/Users/nigel/Desktop/sum)
+[2016-06-01 13:41:09 +0200 Nigels-MBP.fritz.box (54196)] INFO : Environment: development
+[2016-06-01 13:41:09 +0200 Nigels-MBP.fritz.box (54196)] INFO : Dispatcher: webrick
+[2016-06-01 13:41:09 +0200 Nigels-MBP.fritz.box (54196)] INFO : Application: My app (Development)
+[2016-06-01 13:41:09 +0200 Nigels-MBP.fritz.box (54196)] ERROR : Invalid license key: my_key
+[2016-06-01 13:41:09 +0200 Nigels-MBP.fritz.box (54196)] INFO : Installing Net instrumentation
+[2016-06-01 13:41:09 +0200 Nigels-MBP.fritz.box (54196)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-01 13:41:09 +0200 Nigels-MBP.fritz.box (54196)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-01 13:41:09 +0200 Nigels-MBP.fritz.box (54196)] INFO : Finished instrumentation
+[2016-06-01 13:41:10 +0200 Nigels-MBP.fritz.box (54206)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-01 13:41:10 +0200 Nigels-MBP.fritz.box (54206)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-01 13:41:10 +0200 Nigels-MBP.fritz.box (54206)] INFO : Reading configuration from config/newrelic.yml (/Users/nigel/Desktop/sum)
+[2016-06-01 13:41:10 +0200 Nigels-MBP.fritz.box (54206)] INFO : Environment: development
+[2016-06-01 13:41:10 +0200 Nigels-MBP.fritz.box (54206)] INFO : Dispatcher: webrick
+[2016-06-01 13:41:10 +0200 Nigels-MBP.fritz.box (54206)] INFO : Application: My app (Development)
+[2016-06-01 13:41:10 +0200 Nigels-MBP.fritz.box (54206)] ERROR : Invalid license key: my_key
+[2016-06-01 13:41:10 +0200 Nigels-MBP.fritz.box (54206)] INFO : Installing Net instrumentation
+[2016-06-01 13:41:10 +0200 Nigels-MBP.fritz.box (54206)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-01 13:41:10 +0200 Nigels-MBP.fritz.box (54206)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-01 13:41:10 +0200 Nigels-MBP.fritz.box (54206)] INFO : Finished instrumentation
+[2016-06-01 13:41:10 +0200 Nigels-MBP.fritz.box (54196)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-06-01 13:41:10 +0200 Nigels-MBP.fritz.box (54196)] INFO : Installing ActiveRecord 4+ instrumentation
+[2016-06-01 13:41:10 +0200 Nigels-MBP.fritz.box (54196)] INFO : Installing Sinatra instrumentation
+[2016-06-01 13:41:10 +0200 Nigels-MBP.fritz.box (54196)] INFO : Installing Redis Instrumentation
+[2016-06-01 13:41:10 +0200 Nigels-MBP.fritz.box (54196)] INFO : Installing Sidekiq instrumentation
+[2016-06-01 13:41:10 +0200 Nigels-MBP.fritz.box (54196)] INFO : memory not available: Unable to run shell command sampler: ps -o rss
+[2016-06-01 13:41:10 +0200 Nigels-MBP.fritz.box (54206)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-06-01 13:41:10 +0200 Nigels-MBP.fritz.box (54206)] INFO : Installing ActiveRecord 4+ instrumentation
+[2016-06-01 13:41:10 +0200 Nigels-MBP.fritz.box (54206)] INFO : Installing Sinatra instrumentation
+[2016-06-01 13:41:10 +0200 Nigels-MBP.fritz.box (54206)] INFO : Installing Redis Instrumentation
+[2016-06-01 13:41:10 +0200 Nigels-MBP.fritz.box (54206)] INFO : Installing Sidekiq instrumentation
+[2016-06-01 13:41:11 +0200 Nigels-MBP.fritz.box (54206)] INFO : memory not available: Unable to run shell command sampler: ps -o rss
+[2016-06-01 13:41:29 +0200 Nigels-MBP.fritz.box (54237)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-01 13:41:29 +0200 Nigels-MBP.fritz.box (54237)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-01 13:41:29 +0200 Nigels-MBP.fritz.box (54237)] INFO : Reading configuration from config/newrelic.yml (/Users/nigel/Desktop/sum)
+[2016-06-01 13:41:29 +0200 Nigels-MBP.fritz.box (54237)] INFO : Environment: development
+[2016-06-01 13:41:29 +0200 Nigels-MBP.fritz.box (54237)] INFO : Dispatcher: webrick
+[2016-06-01 13:41:29 +0200 Nigels-MBP.fritz.box (54237)] INFO : Application: My app (Development)
+[2016-06-01 13:41:29 +0200 Nigels-MBP.fritz.box (54237)] ERROR : Invalid license key: my_key
+[2016-06-01 13:41:29 +0200 Nigels-MBP.fritz.box (54237)] INFO : Installing Net instrumentation
+[2016-06-01 13:41:29 +0200 Nigels-MBP.fritz.box (54237)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-01 13:41:29 +0200 Nigels-MBP.fritz.box (54237)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-01 13:41:29 +0200 Nigels-MBP.fritz.box (54237)] INFO : Finished instrumentation
+[2016-06-01 13:41:29 +0200 Nigels-MBP.fritz.box (54237)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-06-01 13:41:29 +0200 Nigels-MBP.fritz.box (54237)] INFO : Installing ActiveRecord 4+ instrumentation
+[2016-06-01 13:41:29 +0200 Nigels-MBP.fritz.box (54237)] INFO : Installing Sinatra instrumentation
+[2016-06-01 13:41:29 +0200 Nigels-MBP.fritz.box (54237)] INFO : Installing Redis Instrumentation
+[2016-06-01 13:41:29 +0200 Nigels-MBP.fritz.box (54237)] INFO : Installing Sidekiq instrumentation
+[2016-06-01 13:41:30 +0200 Nigels-MBP.fritz.box (54237)] INFO : memory not available: Unable to run shell command sampler: ps -o rss
+[2016-06-01 13:41:31 +0200 Nigels-MBP.fritz.box (54256)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-01 13:41:31 +0200 Nigels-MBP.fritz.box (54256)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-01 13:41:31 +0200 Nigels-MBP.fritz.box (54256)] INFO : Reading configuration from config/newrelic.yml (/Users/nigel/Desktop/sum)
+[2016-06-01 13:41:31 +0200 Nigels-MBP.fritz.box (54256)] INFO : Environment: development
+[2016-06-01 13:41:31 +0200 Nigels-MBP.fritz.box (54256)] INFO : Dispatcher: webrick
+[2016-06-01 13:41:31 +0200 Nigels-MBP.fritz.box (54256)] INFO : Application: My app (Development)
+[2016-06-01 13:41:31 +0200 Nigels-MBP.fritz.box (54256)] ERROR : Invalid license key: my_key
+[2016-06-01 13:41:31 +0200 Nigels-MBP.fritz.box (54257)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-01 13:41:31 +0200 Nigels-MBP.fritz.box (54257)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-01 13:41:31 +0200 Nigels-MBP.fritz.box (54257)] INFO : Reading configuration from config/newrelic.yml (/Users/nigel/Desktop/sum)
+[2016-06-01 13:41:31 +0200 Nigels-MBP.fritz.box (54257)] INFO : Environment: development
+[2016-06-01 13:41:31 +0200 Nigels-MBP.fritz.box (54257)] INFO : Dispatcher: webrick
+[2016-06-01 13:41:31 +0200 Nigels-MBP.fritz.box (54257)] INFO : Application: My app (Development)
+[2016-06-01 13:41:31 +0200 Nigels-MBP.fritz.box (54257)] ERROR : Invalid license key: my_key
+[2016-06-01 13:41:31 +0200 Nigels-MBP.fritz.box (54256)] INFO : Installing Net instrumentation
+[2016-06-01 13:41:31 +0200 Nigels-MBP.fritz.box (54256)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-01 13:41:31 +0200 Nigels-MBP.fritz.box (54256)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-01 13:41:31 +0200 Nigels-MBP.fritz.box (54256)] INFO : Finished instrumentation
+[2016-06-01 13:41:31 +0200 Nigels-MBP.fritz.box (54257)] INFO : Installing Net instrumentation
+[2016-06-01 13:41:31 +0200 Nigels-MBP.fritz.box (54257)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-01 13:41:31 +0200 Nigels-MBP.fritz.box (54257)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-01 13:41:31 +0200 Nigels-MBP.fritz.box (54257)] INFO : Finished instrumentation
+[2016-06-01 13:41:32 +0200 Nigels-MBP.fritz.box (54257)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-06-01 13:41:32 +0200 Nigels-MBP.fritz.box (54256)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-06-01 13:41:32 +0200 Nigels-MBP.fritz.box (54257)] INFO : Installing ActiveRecord 4+ instrumentation
+[2016-06-01 13:41:32 +0200 Nigels-MBP.fritz.box (54256)] INFO : Installing ActiveRecord 4+ instrumentation
+[2016-06-01 13:41:32 +0200 Nigels-MBP.fritz.box (54257)] INFO : Installing Sinatra instrumentation
+[2016-06-01 13:41:32 +0200 Nigels-MBP.fritz.box (54256)] INFO : Installing Sinatra instrumentation
+[2016-06-01 13:41:32 +0200 Nigels-MBP.fritz.box (54257)] INFO : Installing Redis Instrumentation
+[2016-06-01 13:41:32 +0200 Nigels-MBP.fritz.box (54256)] INFO : Installing Redis Instrumentation
+[2016-06-01 13:41:32 +0200 Nigels-MBP.fritz.box (54256)] INFO : Installing Sidekiq instrumentation
+[2016-06-01 13:41:32 +0200 Nigels-MBP.fritz.box (54257)] INFO : Installing Sidekiq instrumentation
+[2016-06-01 13:41:32 +0200 Nigels-MBP.fritz.box (54257)] INFO : memory not available: Unable to run shell command sampler: ps -o rss
+[2016-06-01 13:41:32 +0200 Nigels-MBP.fritz.box (54256)] INFO : memory not available: Unable to run shell command sampler: ps -o rss
